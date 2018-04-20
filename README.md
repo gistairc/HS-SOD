@@ -1,4 +1,4 @@
 # HS-SOD
 HyperSpectral Salient Object Detection Dataset 
 
-Dataset Release date will be June, 2018
+Dataset will be released soon (on May 2018)!
