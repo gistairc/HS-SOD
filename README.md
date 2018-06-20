@@ -3,7 +3,7 @@
 ### Hyperspectral Image Dataset for Benchmarking on Salient Object Detection (QoMEX 2018 short-paper) 
 10th International Conference on Quality of Multimedia Experience (QoMEX), May 29 - June 1, 2018.             
 Authors: Nevrez Imamoglu, Yu Oishi, Xiaoqiang Zhang, Guanqun Ding, Yuming Fang, Toru Kouyama, Ryosuke Nakamura
-#### Cite as: Nevrez Imamoglu, Yu Oishi, Xiaoqiang Zhang, Guanqun Ding, Yuming Fang, Toru Kouyama, Ryosuke Nakamura, "Hyperspectral Image Dataset for Benchmarking on Salient Object Detection", 10th International Conference on Quality of Multimedia Experience (QoMEX), Sardinia, Italy, May 29 - June 1, 2018.
+**Cite as**: Nevrez Imamoglu, Yu Oishi, Xiaoqiang Zhang, Guanqun Ding, Yuming Fang, Toru Kouyama, Ryosuke Nakamura, "Hyperspectral Image Dataset for Benchmarking on Salient Object Detection", 10th International Conference on Quality of Multimedia Experience (QoMEX), Sardinia, Italy, May 29 - June 1, 2018.
 
 
 #### Abstract
