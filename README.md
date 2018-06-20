@@ -22,8 +22,8 @@ Many works have been done on salient object detection using supervised or unsupe
 ![fig:QoMEX2018_poster](https://github.com/gistairc/HS-SOD/blob/master/poster-QoMEX.png "poster")  
 
 ### Dataset Details
+Details of the dataset can be seen in this [paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxpbWFtb2dsdW5ldnJlenxneDo0ZDVkYjE1YjVmN2QzMjYx).  
 
-For data collection, NH-AIK model hyperspectral camera is used, which is based on NH-series (NH-5) \cite{18} (see Fig.1) and produced by Eba-Japan Co. Ltd \cite{18}. In Table \ref{table:table1}, specifications of the camera are given. 
 
 
 
