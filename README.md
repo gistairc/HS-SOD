@@ -13,10 +13,10 @@ $ wget http://data.airc.aist.go.jp/HS-SOD/HS-SOD.zip
 $ unzip HS-SOD.zip
 ```
 
-**HS-SOD.zip** file contains three fodlers: i)**hyperspectral**: containign 60 hyperspectral images with rows: 768 column: 1024x81 , ii)**color**:   , iii)**ground-truth**:
+**HS-SOD.zip** file contains three fodlers: i)**hyperspectral**: containign 60 hyperspectral images with rows: 768 column: 1024x81 , ii)**color**: color images of hyperspectral dataset rendered in sRGB for visualization, iii)**ground-truth**: ground-truth binary images for salient objects
 
 #### Poster
-![fig:QoMEX2018_poster](https://github.com/gistairc/HS-SOD/blob/master/poster-QoMEX-A0size%20-%20Page%201.png "poster")  
+![fig:QoMEX2018_poster](https://github.com/gistairc/HS-SOD/blob/master/poster-QoMEX.png "poster")  
 
 
 #### Abstract
