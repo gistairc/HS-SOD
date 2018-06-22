@@ -11,7 +11,7 @@ Or type the following in the terminal.
 $ wget dataset_link
 $ unzip HS-SOD.zip
 ```
-**HS-SOD.zip** file contains three folders: i) **hyperspectral**: containign 60 hyperspectral images with #spatial rows:768 #spatial columns:1024 #spectral channels:81 , ii) **color**: 60 color images of hyperspectral dataset rendered in sRGB for visualization, iii) **ground-truth**: 60 ground-truth binary images for salient objects
+**HS-SOD.zip** file contains three folders: i) **hyperspectral**: containing 60 hyperspectral images with #spatial rows:768 #spatial columns:1024 #spectral channels:81 (data only within visible spectrum: 380 nm -720 nm) , ii) **color**: 60 color images of hyperspectral dataset rendered in sRGB for visualization, iii) **ground-truth**: 60 ground-truth binary images for salient objects
 
 #### Dataset Details
 Details of the dataset can be seen in this **[paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxpbWFtb2dsdW5ldnJlenxneDo0ZDVkYjE1YjVmN2QzMjYx).**  
