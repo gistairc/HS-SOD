@@ -20,3 +20,6 @@ $ unzip HS-SOD.zip
 **HS-SOD.zip** file contains three folders: i) **hyperspectral**: containing 60 hyperspectral images with #spatial rows:768 #spatial columns:1024 #spectral channels:81 (data only within visible spectrum: 380 nm -720 nm) , ii) **color**: 60 color images of hyperspectral dataset rendered in sRGB for visualization, iii) **ground-truth**: 60 ground-truth binary images for salient objects
 
 ![fig:QoMEX2018_poster](https://github.com/gistairc/HS-SOD/blob/master/images/poster-QoMEX2018.png "poster")  
+
+## Acknowledgement
+This dataset and source code are based on results obtained from a project commissioned by the New Energy and Industrial Technology Development Organization (NEDO).
