@@ -11,10 +11,10 @@ Details of the dataset (e.g. hyperspectral camera, data format, data collection,
 **Cite as**: Nevrez Imamoglu, Yu Oishi, Xiaoqiang Zhang, Guanqun Ding, Yuming Fang, Toru Kouyama, Ryosuke Nakamura, "Hyperspectral Image Dataset for Benchmarking on Salient Object Detection", 10th International Conference on Quality of Multimedia Experience (QoMEX), Sardinia, Italy, May 29 - June 1, 2018.
 
 ### Download
-The dataset can be downloaded from [here](dataset_link) (5.6GB). 
+The dataset can be downloaded from [here](http://data.airc.aist.go.jp/HS-SOD/HS-SOD.zip) (5.6GB). 
 Or type the following in the terminal.
 ```
-$ wget dataset_link
+$ wget http://data.airc.aist.go.jp/HS-SOD/HS-SOD.zip
 $ unzip HS-SOD.zip
 ```
 **HS-SOD.zip** file contains three folders: i) **hyperspectral**: containing 60 hyperspectral images with #spatial rows:768 #spatial columns:1024 #spectral channels:81 (data only within visible spectrum: 380 nm -720 nm) , ii) **color**: 60 color images of hyperspectral dataset rendered in sRGB for visualization, iii) **ground-truth**: 60 ground-truth binary images for salient objects
