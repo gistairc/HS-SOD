@@ -58,7 +58,7 @@ unzip HS-SOD.zip
 3. **ground-truth**
    - 60 binary ground-truth masks for salient object detection
 
-images/poster-QoMEX2018.png
+![QoMEX 2018 Poster](images/poster-QoMEX2018.png)
 
 ## Citation
 
